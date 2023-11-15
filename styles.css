@@ -1,0 +1,6 @@
+body
+{
+background-image:image('Images\bg.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}

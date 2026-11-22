@@ -4,7 +4,7 @@ Interactive personal portfolio showcasing Microsoft 365 administration, modern w
 
 ## Preview
 
-The complete V5 site is embedded in **`index.html`** — including its CSS, JavaScript, portrait image and resume PDF. No build step, package manager or API keys are required.
+The complete V5 site is embedded in **`index.html`** — including its CSS, JavaScript and portrait image. No build step, package manager or API keys are required.
 
 To view locally, open `index.html` in a modern browser or run:
 
@@ -31,7 +31,7 @@ GitHub Pages may not yet be enabled. This repository contains a legacy `styles.c
 - RepairOS AI concept workflow and project showcase
 - AI-assisted workflow and product-thinking showcase
 - Responsive layout, reduced-motion support and keyboard navigation
-- Embedded downloadable resume
+- Downloadable standalone resume at `assets/Jestin_Raj_Microsoft_365_Resume.pdf`
 
 ## Content and privacy
 
